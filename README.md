@@ -1,2 +1,2 @@
 # Power-ResNet
-Add power terms to the network for enhancing the stability in deep network for solving function interpolation and PDEs problems
+Adding power terms to the network to enhance stability in deep networks for solving function interpolation and PDE problems.
